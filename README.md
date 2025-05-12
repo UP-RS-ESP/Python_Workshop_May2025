@@ -2,6 +2,8 @@
 
 An Introduction to Python, numpy, matplotlib, cartopy, and pandas.
 
+The following Jupyter Labs will introduce the workshop topics:
+
 1. [Python_introduction_1_general.ipynb](https://github.com/UP-RS-ESP/Python_Workshop_May2025/blob/main/python_introduction/Python_introduction_1_general.ipynb)
 2. [Python_introduction_2_numpy.ipynb](https://github.com/UP-RS-ESP/Python_Workshop_May2025/blob/main/python_introduction/Python_introduction_2_numpy.ipynb)
 3. [Python_introduction_3_pandas_EQ_data.ipynb](https://github.com/UP-RS-ESP/Python_Workshop_May2025/blob/main/python_introduction/Python_introduction_3_pandas_EQ_data.ipynb)
